@@ -13,5 +13,9 @@ This project is a comprehensive design and development showcase for the Museo de
 ## 🚀 Key Challenges
 The main goal was to maintain a consistent visual identity between the website and the email. I focused on making the navigation seamless on the landing page and ensuring the email template stays responsive on all mobile devices.
 
+## 🔗 Live Demo
+* [View Landing Page](https://hann199427-dot.github.io/museo-del-prado-campaign/)
+* [View Email Template](https://hann199427-dot.github.io/museo-del-prado-campaign/email/)
+
 ---
 *Developed as part of my Front-end learning journey.*
